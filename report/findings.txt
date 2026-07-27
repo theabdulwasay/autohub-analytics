@@ -1,0 +1,36 @@
+======================================================================
+AUTOHUB SERVICE NETWORK — KEY FINDINGS
+======================================================================
+Total bookings analyzed: 6,500  |  Date range: 2025-08-01 to 2026-07-24
+Completion rate: 92.9%  (Cancelled: 4.0%, No-show: 3.1%)
+Total revenue (completed jobs): Rs 28,621,620
+
+[Chart 1] Monthly revenue trend — peak month: 2025-08 (Rs 2.86M), lowest: 2026-02 (Rs 2.11M)
+[Chart 2] Top branch by revenue: AutoHub Riverside (Rs 9.79M, 2,238 jobs, avg rating 4.19★)
+[Chart 3] Largest revenue category: Maintenance (38.1% of total revenue, 2,699 jobs)
+[Chart 4] Most-booked service: Oil & Filter Change (1,440 jobs) — least-booked: Detailing & Paint Protection (254 jobs)
+[Chart 5] Correlation between wait time and customer rating: -0.32 (longer waits associate with lower ratings)
+[Chart 6] Busiest day: Friday — busiest hour: 12:00
+[Chart 7] Busiest technician: Imran Qureshi (543 jobs, 4.26★ avg)
+
+----------------------------------------------------------------------
+BRANCH SUMMARY TABLE
+----------------------------------------------------------------------
+            branch  jobs  completed_jobs   revenue  avg_rating  avg_wait
+ AutoHub Riverside  2238            2086 9791230.0        4.19     15.33
+  AutoHub Downtown  1838            1727 8108070.0        4.31      9.51
+ AutoHub Northgate  1411            1299 6169720.0        4.31      9.92
+AutoHub Industrial  1013             929 4552600.0        4.31     10.00
+
+----------------------------------------------------------------------
+RECOMMENDATIONS
+----------------------------------------------------------------------
+1. Riverside (Lahore) drives the most revenue and volume — consider it the
+   template branch; assess whether Industrial (Faisalabad) needs a marketing
+   push or reduced bay count given its lower utilization.
+2. Wait time is negatively correlated with customer rating — prioritize adding
+   bay capacity or staff during the identified peak hour/day combination.
+3. Maintenance-category services drive the largest job volume; bundling
+   Diagnostics + Maintenance into a package could lift average ticket size.
+4. Cancellations and no-shows total roughly 7.1% of bookings — a reminder/
+   confirmation flow the day before appointments could recover this revenue.
