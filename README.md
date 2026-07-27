@@ -160,12 +160,6 @@ AutoHub-Analytics
 
 > **Replace these placeholders with screenshots**
 
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## Revenue Analysis
 
 ![Revenue](charts/01_monthly_revenue_trend.png)
